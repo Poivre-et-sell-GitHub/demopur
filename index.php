@@ -1,9 +1,7 @@
 <?php
-echo "yep";
+echo "yepcdcd";
 ?>
-<<<<<<< Updated upstream
-csdsd
-=======
+
 <hmtl>
 	<head>
 		
@@ -11,5 +9,8 @@ csdsd
 	<body>
 		ec!ljkhljkhcx
 	</body>
+
 </hmtl> c
->>>>>>> Stashed changes
+
+</hmtl>
+
