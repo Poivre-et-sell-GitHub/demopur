@@ -1,6 +1,7 @@
 <?php
 echo "yepcdcd";
 ?>
+
 <hmtl>
 	<head>
 		
@@ -8,4 +9,9 @@ echo "yepcdcd";
 	<body>
 		ec!ljkhljkhcx
 	</body>
+
+
 </hmtl>
+
+</hmtl>
+
